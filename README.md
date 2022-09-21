@@ -1,8 +1,8 @@
 # Galaxy Detector
 
-This is a project assigned to the university course of "Introduction to Artifical Intelligence".
+This is an assignment for the course "Introduction to Artifical Intelligence" of University of Trento.
 
-Given an image of a galaxy, this neural network tries to recognize the correct class.
+Given an image of a galaxy, the neural network tries to recognize the correct class.
 There are 10 different type of galaxies:
 - Edge-on with Bulge
 - Barred Spiral
